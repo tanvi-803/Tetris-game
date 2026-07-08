@@ -1,4 +1,3 @@
-
 # Tetris Game in C++
 
 A  Tetris Game implementation in C++ using console graphics.
