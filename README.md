@@ -63,3 +63,6 @@ A  Tetris Game implementation in C++ using console graphics.
 
 ## Sample Photo
 
+## Sample Photo
+
+![Tetris Game Screenshot](photo.jpeg)
