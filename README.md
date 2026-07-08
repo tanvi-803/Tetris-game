@@ -63,4 +63,3 @@ A  Tetris Game implementation in C++ using console graphics.
 
 ## Sample Photo
 
-[https://github.com/kpal2207/tetris-game/blob/main/WhatsApp%20Image%202025-03-28%20at%2013.43.36.jpeg](https://github.com/kpal2207/tetris-game/blob/main/photo.jpeg)
